@@ -16,7 +16,7 @@ https://github.com/samwel-chege/My-car-website.git
 1. __Enjoy :)__:)__
 ### Technologies Used
 1. HTML
-2. CSS
+2. TailwindCss
 
 ### Live Site
 View [Live]()
